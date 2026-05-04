@@ -10,7 +10,7 @@
 - 🛠️ I work across the full stack: **Python, JavaScript, React, Node.js**
 - 📊 I love turning raw data into powerful insights using **Data Engineering & Analytics**
 - 🌱 Currently exploring **LangGraph, LangChain, YOLOv8, and Vector Databases**
-- 💬 Ask me about **Machine Learning, Computer Vision, RAG pipelines, or React**
+- 💬 Ask me about **Machine Learning,Agentic AI, Gen AI, Computer Vision, RAG pipelines, or React**
 
 ---
 
@@ -84,7 +84,7 @@
 
 <p align="left">
   <a href="https://github.com/mesupriya" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/mesupriya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/supriya-veerla/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
