@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Supriya Veerla</h1>
-<h3 align="center">AI/ML Engineer | Full-Stack Developer | Data Engineer</h3>
-
-<p align="center">
-  <a href="https://github.com/mesupriya"><img src="https://komarev.com/ghpvc/?username=mesupriya&label=Profile%20views&color=0e75b6&style=flat" alt="mesupriya" /></a>
-  <a href="https://github.com/mesupriya?tab=followers"><img src="https://img.shields.io/github/followers/mesupriya?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
+<h3 align="center">AI/ML Engineer | Agentic AI | Data Engineer | Generative AI Developer | LLMs, RAG & Cloud AI |Web Technologies | Building Scalable Intelligent Systems | Driving Data-to-Intelligence through Automation & Innovation</h3>
 
 ---
 
