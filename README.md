@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priya V</h1>
+<h1 align="center">Hi 👋, I'm Supriya V</h1>
 <h3 align="center">AI/ML Engineer | Agentic AI | Data Engineer | Generative AI Developer</h3>
 <h4 align="center">LLMs, RAG & Cloud AI | Building Scalable Intelligent Systems</h4>
 
